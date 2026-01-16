@@ -21,15 +21,16 @@ Here are some ideas to get you started:
     I love using Data Science, Machine Learning & AI to solve business problems and improve operational efficiency.</b>
   </em>
 </p>
-<br><br>
+<br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
 **ABOUT ME:**
 
 💼 I have professional work experience as a Data Scientist, utilising statistics, machine learning and AI techniques to solve business problems and provide insightful recommendations that drive measurable growth. <br>
-✔ <ins>*I am looking for full-time opportunities in Machine Learning/Data Science/AI Engineering domains*</ins><br>
+✔ <ins>*I am looking for full-time opportunities in Machine Learning/Data Science/AI Engineering domains*</ins><br> 
 
+[Check out my Portfolio!](https://app.powerbi.com/view?r=eyJrIjoiN2I3NTczNTItOTlhOC00YjQyLWI0OWEtM2EzMWVjZWVjOTgzIiwidCI6IjYwOTU2ODg0LTEwYWQtNDBmYS04NjNkLTRmMzJjMWUzYTM3YSIsImMiOjF9)
 <br><br>
 ## 🛠️ My Skills
 
