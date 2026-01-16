@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 💼 I have professional work experience as a Data Scientist, utilising statistics, machine learning and AI techniques to solve business problems and provide insightful recommendations that drive measurable growth. <br>
 ✔ <ins>*I am looking for full-time opportunities in Machine Learning/Data Science/AI Engineering domains*</ins><br> 
 
-[Check out my Portfolio!](https://app.powerbi.com/view?r=eyJrIjoiN2I3NTczNTItOTlhOC00YjQyLWI0OWEtM2EzMWVjZWVjOTgzIiwidCI6IjYwOTU2ODg0LTEwYWQtNDBmYS04NjNkLTRmMzJjMWUzYTM3YSIsImMiOjF9)
+[Check out my Portfolio!](https://sanket-bhujbal-nn01mi4.gamma.site/)
 <br><br>
 ## 🛠️ My Skills
 
