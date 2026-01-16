@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
   <em>
     I am Sanket Bhujbal, a <b>Master of Engineering in Computer Science & Applications graduate from Virginia Tech</b>, USA</a>. <br>
-    I am interested in <b>Data Science, Machine Learning, and AI.</b>
+    I love using Data Science, Machine Learning & AI to solve business problems and improve operational efficiency.</b>
   </em>
 </p>
 <br><br>
@@ -27,18 +27,19 @@ Here are some ideas to get you started:
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; -->
 **ABOUT ME:**
 
-💼 I have professional work experience as a Data Scientist, utilising machine learning techniques to solve business problems and provide insightful recommendations. <br>
-✔ <ins>*I am looking for full-time opportunities in Machine Learning/Data Science/Software Engineering domains*</ins><br>
+💼 I have professional work experience as a Data Scientist, utilising statistics, machine learning and AI techniques to solve business problems and provide insightful recommendations that drive measurable growth. <br>
+✔ <ins>*I am looking for full-time opportunities in Machine Learning/Data Science/AI Engineering domains*</ins><br>
 
 <br><br>
 ## 🛠️ My Skills
 
 ### Programming Languages:
 &emsp;
-![Python](https://img.shields.io/badge/Python-logo?logo=python&logoColor=white&color=blue)
+![Python](https://img.shields.io/badge/Python-logo?logo=python&logoColor=white&color=yellow)
 ![SQL](https://img.shields.io/badge/SQL-logo?logo=sql&logoColor=white&color=DarkGreen)
 ![C](https://img.shields.io/badge/C-logo?logo=c&logoColor=white&color=blue)
 ![C++](https://img.shields.io/badge/C++-logo?logo=c%2B%2B&logoColor=white&color=blue)
+![JavaScript](https://img.shields.io/badge/Javascript-logo?logo=Javascript&logoColor=white&color=red)
 
 ### Machine Learning:
 &emsp;
@@ -68,6 +69,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-logo?logo=postgresql&logoColor=white&color=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-logo?logo=mongodb&logoColor=white&color=green)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-logo?logo=chromadb&logoColor=white&color=yellow)
+
 ### Web Technologies:
 &emsp;
 ![HTML](https://img.shields.io/badge/HTML-logo?logo=html5&logoColor=white&color=orange)
@@ -91,11 +93,12 @@ Here are some ideas to get you started:
 ![Tableau](https://img.shields.io/badge/Tableau-logo?logo=tableau&logoColor=white&color=black)
 ![Databricks](https://img.shields.io/badge/Databricks-logo?logo=databricks&logoColor=white&color=red)
 ![Snowflake](https://img.shields.io/badge/Snowflake-logo?logo=snowflake&logoColor=white&color=blue)
+![Airflow](https://img.shields.io/badge/Airflow-logo?logo=apache-airflow&logoColor=white&color=orange) 
 
 <br><br>
 ## 🤝 Connect with me:
 <p align="left">
-	<a href="mailto:sanketb@vt.edu"><img img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=plastic&logo=Email&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:sanketmbhujbal99@gmail.com"><img img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=plastic&logo=Email&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/sanketmbhujbal/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 </p>
 </p>
