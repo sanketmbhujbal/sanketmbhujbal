@@ -31,8 +31,8 @@ I'm a **Data Scientist / Machine Learning Engineer** with hands-on experience bu
 
 📈 **Impact highlights**
 
-- Improved model-driven outcomes such as **CTR, conversion, retention, and revenue**
-- Designed and productionized **recommender systems, forecasting models, and analytics dashboards**
+- Improved model-driven outcomes such as **revenue, conversion, retention**
+- Designed and productionized **personalization systems, forecasting models, and analytics dashboards**
 
 🚀 **Currently seeking**
 Full-time roles in **Machine Learning, Data Science, or AI Engineering**
